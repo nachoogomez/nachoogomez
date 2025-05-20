@@ -5,14 +5,14 @@
 
 &nbsp;***About me***
 
-I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative and creative.
+Hi! I'm a Software Development student currently in my final year. I'm passionate about learning, building, and growing as a developer, with a focus on both front-end and back-end technologies.
 - 🌱 I’m currently learning ...
   - Nest.js
   - Angular
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 💜I love streaming on twitch, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
-- 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
+  - Java
+- 💡 I enjoy creating useful, innovative, and creative projects that help me improve and apply what I’ve learned.
+- 🤝 I’m open to collaborating on open-source projects, learning from others, and contributing wherever I can.
+- 📫 Feel free to reach out — I'm always happy to connect, share ideas, and help however I can.
 
 ## 🛠 &nbsp;Tech Stack
 
